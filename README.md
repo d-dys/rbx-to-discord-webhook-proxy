@@ -4,5 +4,3 @@
 
 If that fails run,
 ```npm -y init``` to install a package.json
-
-You're done! Run your server and haveeee fun!
